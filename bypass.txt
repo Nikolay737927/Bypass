@@ -1,0 +1,26 @@
+//vip bypass 3.6 32 bit by @west_back
+MemoryPatch::createWithHex("libUE4.so", 0x8B6F6C8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8B6F20C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8B6EA78, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8969324, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8963E70, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8963CF8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8963370, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8962FA0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8861AD0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8861350, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x8860E60, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x870DBE4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x870B3C0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x826C330, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x826B1B0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x826AA70, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x53A105C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x53A1944, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x546A984, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x546ACB8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x5E7DBD8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x63EA8A4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x63EB560, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x668E1F0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex("libUE4.so", 0x69B8C78, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
